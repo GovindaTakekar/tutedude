@@ -4,13 +4,15 @@
 
 body{
     margin: 0;
+    overflow : hidden;
+    width : 100%;
 }
 
 a{
     text-decoration: none;
 }
 
-@media (max-width:350px){
+@media (max-width:380px){
    
 .container{
     height: 100%;
