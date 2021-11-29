@@ -431,7 +431,7 @@ div.category a{
 
 a.more-courses{
     position: absolute;
-    margin-left: 38%;
+/*     margin-left: 38%; */
     text-align: center;
     color: #fff;
     font-weight: bold;
